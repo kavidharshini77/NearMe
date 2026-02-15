@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 
+## Date: 14-02-2026
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -144,11 +144,12 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-
-
-
-
-
+![alt text](map.png)
+![alt text](chromepet.png)
+![alt text](park.png)
+![alt text](mudichur.png)
+![alt text](perungalathur.png)
+![alt text](selaiyur.png)
 
 
 ## RESULT
